@@ -1,0 +1,828 @@
+[
+  {
+    "description": "The complete original abrotonum foemina botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "abrotonum-foemina",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "abrotonum-foemina",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543716",
+    "png": "png/abrotonum-foemina.png",
+    "webp": "webp/abrotonum-foemina.webp",
+    "width": 1257,
+    "height": 3592,
+    "png_bytes": 834623,
+    "webp_bytes": 478224,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/abrotonum-foemina.png",
+        "webp": "webp/128/abrotonum-foemina.webp",
+        "width": 45,
+        "height": 128,
+        "png_bytes": 5909,
+        "webp_bytes": 2380
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/abrotonum-foemina.png",
+        "webp": "webp/256/abrotonum-foemina.webp",
+        "width": 90,
+        "height": 256,
+        "png_bytes": 19893,
+        "webp_bytes": 8108
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/abrotonum-foemina.png",
+        "webp": "webp/512/abrotonum-foemina.webp",
+        "width": 179,
+        "height": 512,
+        "png_bytes": 72160,
+        "webp_bytes": 27264
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/abrotonum-foemina.png",
+        "webp": "webp/768/abrotonum-foemina.webp",
+        "width": 269,
+        "height": 768,
+        "png_bytes": 150488,
+        "webp_bytes": 56064
+      }
+    ],
+    "svg": "svg/abrotonum-foemina.svg",
+    "viewbox": [
+      0,
+      0,
+      1257,
+      3592
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Abrotonum foemina (scan [39])",
+      "object_identifier": "UBH Lo I 4; scan [39]; image 543716",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543716",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "bc2f6a0e334abea3ef495fce64eb6eafbd4bc652ff4cef0853c4486bc88e9567",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543716/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3814,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 3592,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original alsine media botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "alsine-media",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "alsine-media",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543731",
+    "png": "png/alsine-media.png",
+    "webp": "webp/alsine-media.webp",
+    "width": 1725,
+    "height": 2434,
+    "png_bytes": 1201172,
+    "webp_bytes": 729748,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/alsine-media.png",
+        "webp": "webp/128/alsine-media.webp",
+        "width": 91,
+        "height": 128,
+        "png_bytes": 19360,
+        "webp_bytes": 7762
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/alsine-media.png",
+        "webp": "webp/256/alsine-media.webp",
+        "width": 181,
+        "height": 256,
+        "png_bytes": 69146,
+        "webp_bytes": 26356
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/alsine-media.png",
+        "webp": "webp/512/alsine-media.webp",
+        "width": 363,
+        "height": 512,
+        "png_bytes": 233114,
+        "webp_bytes": 87834
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/alsine-media.png",
+        "webp": "webp/768/alsine-media.webp",
+        "width": 544,
+        "height": 768,
+        "png_bytes": 440167,
+        "webp_bytes": 178574
+      }
+    ],
+    "svg": "svg/alsine-media.svg",
+    "viewbox": [
+      0,
+      0,
+      1725,
+      2434
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Alsine media (scan [54])",
+      "object_identifier": "UBH Lo I 4; scan [54]; image 543731",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543731",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "42344af7b1741c70d0d5c1757f62e9770dc151f920de9cf46b2675499f1103e1",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543731/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3813,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 2434,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original anagallis mas botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "anagallis-mas",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "anagallis-mas",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543727",
+    "png": "png/anagallis-mas.png",
+    "webp": "webp/anagallis-mas.webp",
+    "width": 2228,
+    "height": 2469,
+    "png_bytes": 979068,
+    "webp_bytes": 575544,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/anagallis-mas.png",
+        "webp": "webp/128/anagallis-mas.webp",
+        "width": 116,
+        "height": 128,
+        "png_bytes": 17450,
+        "webp_bytes": 6742
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/anagallis-mas.png",
+        "webp": "webp/256/anagallis-mas.webp",
+        "width": 231,
+        "height": 256,
+        "png_bytes": 58525,
+        "webp_bytes": 21940
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/anagallis-mas.png",
+        "webp": "webp/512/anagallis-mas.webp",
+        "width": 462,
+        "height": 512,
+        "png_bytes": 178473,
+        "webp_bytes": 69996
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/anagallis-mas.png",
+        "webp": "webp/768/anagallis-mas.webp",
+        "width": 693,
+        "height": 768,
+        "png_bytes": 333434,
+        "webp_bytes": 139718
+      }
+    ],
+    "svg": "svg/anagallis-mas.svg",
+    "viewbox": [
+      0,
+      0,
+      2228,
+      2469
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Anagallis mas (scan [50])",
+      "object_identifier": "UBH Lo I 4; scan [50]; image 543727",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543727",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "9fbb1b54dd47b93720fc57d21921782ba484524cd7081a4ee3c3b6c16904670b",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543727/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3813,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 2469,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original chamaemelum eranthemon botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "chamaemelum-eranthemon",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "chamaemelum-eranthemon",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543736",
+    "png": "png/chamaemelum-eranthemon.png",
+    "webp": "webp/chamaemelum-eranthemon.webp",
+    "width": 2279,
+    "height": 3699,
+    "png_bytes": 1194829,
+    "webp_bytes": 685750,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/chamaemelum-eranthemon.png",
+        "webp": "webp/128/chamaemelum-eranthemon.webp",
+        "width": 79,
+        "height": 128,
+        "png_bytes": 11952,
+        "webp_bytes": 3926
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/chamaemelum-eranthemon.png",
+        "webp": "webp/256/chamaemelum-eranthemon.webp",
+        "width": 158,
+        "height": 256,
+        "png_bytes": 39396,
+        "webp_bytes": 13750
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/chamaemelum-eranthemon.png",
+        "webp": "webp/512/chamaemelum-eranthemon.webp",
+        "width": 315,
+        "height": 512,
+        "png_bytes": 124473,
+        "webp_bytes": 44398
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/chamaemelum-eranthemon.png",
+        "webp": "webp/768/chamaemelum-eranthemon.webp",
+        "width": 473,
+        "height": 768,
+        "png_bytes": 229038,
+        "webp_bytes": 86570
+      }
+    ],
+    "svg": "svg/chamaemelum-eranthemon.svg",
+    "viewbox": [
+      0,
+      0,
+      2279,
+      3699
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Chamaemelum eranthemon (scan [59])",
+      "object_identifier": "UBH Lo I 4; scan [59]; image 543736",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543736",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "e88e6fbf2a5ecff88b0f7fa3b39fb4ba0c9b89ba5e868e2c4442a7190fd9c2ef",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543736/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3814,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 3699,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original plantago maior botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "plantago-maior",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "plantago-maior",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543746",
+    "png": "png/plantago-maior.png",
+    "webp": "webp/plantago-maior.webp",
+    "width": 2378,
+    "height": 3496,
+    "png_bytes": 1173016,
+    "webp_bytes": 660296,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/plantago-maior.png",
+        "webp": "webp/128/plantago-maior.webp",
+        "width": 87,
+        "height": 128,
+        "png_bytes": 12804,
+        "webp_bytes": 4432
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/plantago-maior.png",
+        "webp": "webp/256/plantago-maior.webp",
+        "width": 174,
+        "height": 256,
+        "png_bytes": 41309,
+        "webp_bytes": 15396
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/plantago-maior.png",
+        "webp": "webp/512/plantago-maior.webp",
+        "width": 348,
+        "height": 512,
+        "png_bytes": 126023,
+        "webp_bytes": 48926
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/plantago-maior.png",
+        "webp": "webp/768/plantago-maior.webp",
+        "width": 522,
+        "height": 768,
+        "png_bytes": 235560,
+        "webp_bytes": 94492
+      }
+    ],
+    "svg": "svg/plantago-maior.svg",
+    "viewbox": [
+      0,
+      0,
+      2378,
+      3496
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Plantago maior (scan [69])",
+      "object_identifier": "UBH Lo I 4; scan [69]; image 543746",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543746",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "9fffe0fb98f331d2f41249ac9266f65223a52db0cf15004dfdd85d29318e1b20",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543746/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3814,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 3496,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original sedum maius botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "sedum-maius",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "sedum-maius",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543741",
+    "png": "png/sedum-maius.png",
+    "webp": "webp/sedum-maius.webp",
+    "width": 2115,
+    "height": 3768,
+    "png_bytes": 1303988,
+    "webp_bytes": 744008,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/sedum-maius.png",
+        "webp": "webp/128/sedum-maius.webp",
+        "width": 72,
+        "height": 128,
+        "png_bytes": 11874,
+        "webp_bytes": 4128
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/sedum-maius.png",
+        "webp": "webp/256/sedum-maius.webp",
+        "width": 144,
+        "height": 256,
+        "png_bytes": 40815,
+        "webp_bytes": 14858
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/sedum-maius.png",
+        "webp": "webp/512/sedum-maius.webp",
+        "width": 287,
+        "height": 512,
+        "png_bytes": 128520,
+        "webp_bytes": 48546
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/sedum-maius.png",
+        "webp": "webp/768/sedum-maius.webp",
+        "width": 431,
+        "height": 768,
+        "png_bytes": 240817,
+        "webp_bytes": 94172
+      }
+    ],
+    "svg": "svg/sedum-maius.svg",
+    "viewbox": [
+      0,
+      0,
+      2115,
+      3768
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Sedum maius (scan [64])",
+      "object_identifier": "UBH Lo I 4; scan [64]; image 543741",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543741",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "e17345ad0049579dca959043691e4f121b96a8812d4b498c497d56dc704e7c66",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543741/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3813,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 3768,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original seriphium absinthium botanical woodcut, retaining all connected stems, leaves, flowers and roots. Source captions and reverse-side printing excluded. Part of the Fuchs 1542 Herbal set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "seriphium-absinthium",
+      "plant",
+      "leaf",
+      "root"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "seriphium-absinthium",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-fuchs-543711",
+    "png": "png/seriphium-absinthium.png",
+    "webp": "webp/seriphium-absinthium.webp",
+    "width": 2454,
+    "height": 3813,
+    "png_bytes": 3431982,
+    "webp_bytes": 2135234,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seriphium-absinthium.png",
+        "webp": "webp/128/seriphium-absinthium.webp",
+        "width": 82,
+        "height": 128,
+        "png_bytes": 18315,
+        "webp_bytes": 6752
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seriphium-absinthium.png",
+        "webp": "webp/256/seriphium-absinthium.webp",
+        "width": 165,
+        "height": 256,
+        "png_bytes": 64741,
+        "webp_bytes": 25580
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seriphium-absinthium.png",
+        "webp": "webp/512/seriphium-absinthium.webp",
+        "width": 330,
+        "height": 512,
+        "png_bytes": 237899,
+        "webp_bytes": 92374
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/seriphium-absinthium.png",
+        "webp": "webp/768/seriphium-absinthium.webp",
+        "width": 494,
+        "height": 768,
+        "png_bytes": 508139,
+        "webp_bytes": 199642
+      }
+    ],
+    "svg": "svg/seriphium-absinthium.svg",
+    "viewbox": [
+      0,
+      0,
+      2454,
+      3813
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Universitätsbibliothek Basel",
+      "title": "Fuchs, De historia stirpium: Seriphium absinthium (scan [34])",
+      "object_identifier": "UBH Lo I 4; scan [34]; image 543711",
+      "date": "1542",
+      "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543711",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+      "source_sha256": "88d05e173cf9b62d341b87609edc8bf752936d8b9c24e5f5377b0063d9f878f7",
+      "image_url": "https://www.e-rara.ch/i3f/v20/543711/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One plant with connected shoots and roots. Its branches are not separate plants and no repeat period is inferred. Transparent line artwork preserves the actual printed ink contours.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "fuchs-1542-herbal",
+        "name": "Fuchs 1542 Herbal"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3813,
+      "height": 4853
+    },
+    "master_longest_dimension_cap": 3813,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  }
+]
